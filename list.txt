@@ -5,3 +5,9 @@ sparklers
 
 dynamite
 poppers
+
+candy
+milkshake
+
+horse
+cart
